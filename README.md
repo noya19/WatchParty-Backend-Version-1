@@ -19,5 +19,3 @@ Watch Party is a full-stack application that empowers users to upload and watch 
  - Run `npm i` in the root directory to install all dependencies.
  - Install the ffmpeg library. Learn from this tutorial https://youtu.be/jZLqNocSQDM?si=Kf_yg6EXbTsx2OKU. Here the author creates a new folder in C Drive by the name "Path_Programs", you need to name it "FFMPEG" because I have named it that way ;) .
  - Run `npm run start` to start the server.
-
-MIT License
